@@ -1,2 +1,2 @@
 # beginner-projects-1
-I am Revising python programming and this is my first project after long time.  
+I am Revising python programming and these are my some projects after long time.  
